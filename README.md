@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a recent computing graduate from Solent university currently training with Sparta Global to be a Java SDET consultant. Here you can find my work at Sparta as well as my FMP and other university work.
+
 <!--
 **jackingham/jackingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
