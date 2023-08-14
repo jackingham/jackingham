@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a recent computing graduate from Solent university currently training with Sparta Global on a DevOps bolt-on course, having comepleted a Java SDET consultant course. Here you can find my work at Sparta as well as my FMP and other university work.
+I'm currently working as a Performance QA engineer and as such this place is pretty quiet. It contains my old Java dev/SDET work from Sparta Global as well as some assorted uni projects.
+
+I am best reached on LinkedIn.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackingham&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
