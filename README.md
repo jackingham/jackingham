@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a Performance QA engineer and as such this place is pretty quiet. It contains my old Java dev/SDET work from Sparta Global as well as some assorted uni projects.
+I'm currently working as a Performance QA engineer and as such this place is pretty quiet. It contains my old Java dev/SDET and DevOps work from Sparta Global as well as my Uni dissertation/FMP and some other assorted uni projects.
 
 I am best reached on LinkedIn.
 
